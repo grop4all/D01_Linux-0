@@ -74,7 +74,9 @@ DHCP - Dynamic Host Configuration Protocol — протокол динамиче
 
 внешний ip-адрес шлюза (ip) и внутренний IP-адрес шлюза
 ![внешний ip-адрес шлюза (ip) и внутренний IP-адрес шлюза](images/8.png)
+
 или
+
 ![](images/10.png)
 
 - задаем маршрут
